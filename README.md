@@ -1,4 +1,4 @@
 # CardAnimationDemo
 卡片动画
 
-![image](https://github.com/Foreversgy/CardAnimationDem/raw/master/demo.gif)
+![image](https://github.com/Foreversgy/CardAnimationDemo/raw/master/demo.gif)
